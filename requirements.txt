@@ -1,0 +1,8 @@
+crewai>=0.175.0
+litellm>=1.40.0
+crewai-tools>=0.69.0
+python-telegram-bot>=21.0
+python-dotenv>=1.0.0
+schedule>=1.2.0
+pytz>=2024.1
+aiohttp
