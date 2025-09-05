@@ -1,20 +1,5 @@
 #!/usr/bin/env python3
-"""
-CrewAI Financial Market Summary Script - Enhanced with Image Solutions
-====================================================================
 
-A comprehensive multi-agent system for generating daily US financial market summaries
-with advanced image handling, collages, and inline keyboards for Telegram.
-
-Setup Instructions:
-1. Ensure Python 3.10+ is installed
-2. Install dependencies: pip install -r requirements.txt
-3. Configure .env file with required API keys (see .env.example)
-4. Run: python financial_market_summary.py
-
-Author: CrewAI Financial Bot
-Version: 3.0 - Enhanced Image Handling
-"""
 
 import os
 import sys
@@ -1009,4 +994,5 @@ def main():
         sys.exit(1)
 
 if __name__ == "__main__":
+
     main()
